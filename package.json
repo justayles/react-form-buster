@@ -1,6 +1,6 @@
 {
   "name": "react-form-buster",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Form validation and state management made easy",
   "scripts": {
     "rollup": "rollup -c",
