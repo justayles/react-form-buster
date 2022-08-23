@@ -1,0 +1,5 @@
+node 16.13.2
+
+https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe
+https://github.com/ppulwey/remake-lib#publish
+https://github.com/rollup/plugins/issues/1230
